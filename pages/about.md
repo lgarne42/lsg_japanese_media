@@ -14,14 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+The Japanese Media Collection is a small collection of Japan-focused entertainment media acquired slowly from approximately 2008 to present. It is composed of sixteen volumes of manga, five fiction novels, eight CDs, eight DVDs, and three video game cartridges for the Nintendo Switch console (40 items total, not including any hardware required to access dependent materials). The film, video game, and written media primarily target audiences of all ages however, a few contain adult content (violence, horror, drug use, profanity, etc.) with release dates spanning from the mid-1980s to the 2020s. The music release dates concentrate in the 1990s and early 2000s and include genres such as neo-psychedelia, dream pop, jazz, soundtrack, instrumental, rap, pop, rock, electronic, and more. 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
